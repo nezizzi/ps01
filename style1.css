@@ -48,6 +48,6 @@ img {
     clear:both;
     position:relative;
     float:left;
-    width: 50%;  /* note that this is less than 50% because the border takes up 2 px of width - try turning off the border and then increasing to 50% */
+    width: 50%;
 }
 
